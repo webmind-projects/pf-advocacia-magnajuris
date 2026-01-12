@@ -1,0 +1,10 @@
+# .gitignore file for the website
+
+node_modules/
+dist/
+.env
+.DS_Store
+logs/
+build/
+.github/
+HOW-TO-USE.md
